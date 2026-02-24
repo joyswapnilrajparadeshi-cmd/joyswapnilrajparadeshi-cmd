@@ -109,7 +109,7 @@ My goal is to **bridge software engineering + artificial intelligence** to build
 
 ## 🏆 Achievements & Highlights  
 
-- ✅ Built **10+ Full Stack + AI Projects**  
+- ✅ Built **multiple production-level full stack systems**  
 - 🧠 Strong in **Machine Learning & Deep Learning Systems**  
 - 🚀 Deployed **multiple live production systems**  
 - 🏅 Smart India Hackathon Project Developer  

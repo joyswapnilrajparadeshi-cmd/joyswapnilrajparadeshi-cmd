@@ -94,6 +94,16 @@ My goal is to **bridge software engineering + artificial intelligence** to build
 
 ---
 
+### 🏛️ Municipal Civic Grievance System — **Community Complaint Management Platform**  
+- User-friendly complaint submission form  
+- Category-based tracking (Sanitation, Water, Roads, Electricity, etc.)  
+- Admin Dashboard for reviewing & updating complaints  
+- Real-time notifications to users  
+
+🔗 **Live:** https://municipal-complaint.wuaze.com
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">

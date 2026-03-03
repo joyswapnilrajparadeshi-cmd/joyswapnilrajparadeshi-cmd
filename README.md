@@ -100,7 +100,7 @@ My goal is to **bridge software engineering + artificial intelligence** to build
 - Admin Dashboard for reviewing & updating complaints  
 - Real-time notifications to users  
 
-🔗 **Live:** https://municipal-complaint.wuaze.com
+🔗 **Live:** https://municipal-complaint.ct.ws
 
 ---
 
